@@ -1,4 +1,9 @@
-Pytorch
+Required enviroment:
+    Pytorch
+    Numpy
+    Nibabel
+    Scipy
+    Skimage
 
 
 

@@ -1,3 +1,7 @@
+Pytorch
+
+
+
 # Brain-tumor-detection-based-on-a-novel-and-high-quality-prediction-of-the-tumor-pixel-distributions
 
 [1] Y. Sun, C. Wang, Brain tumor detection based on a novel and high-quality prediction of the tumor pixel distributions, Computers in Biology and Medicine, vol. 172, 2024, 108196. https://doi.org/10.1016/j.compbiomed.2024.108196.

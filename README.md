@@ -1,5 +1,4 @@
 # Required enviroment:
-    Pytorch
     Numpy
     Nibabel
     Scipy
